@@ -140,7 +140,10 @@ observing very remote objects one can look back over a long time span,
 and hence can test the values of the physical constants when the
 Universe had even 1/4th of its present age, that is, about 10,000
 million years ago.
-------------------------------------------------------------------------
+
+
+
+
 If the fine-structure constant happens to change over the duration of
 the light's journey from remote objects, the energy levels in the atoms
 would be affected and the wavelengths of the absorption lines would be
