@@ -1,0 +1,13 @@
+---
+title: "Probing the environment of  AGN"
+collection: Thesis
+type: Supervisor
+permalink: /talks/2013-03-01-tutorial-1
+venue: "UC-Berkeley Institute for Testing Science"
+date: 2009-08-01 
+location: "Berkeley CA, USA"
+---
+
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown! [More detail here](/talks/2013-03-01-tutorial-1)
+
+This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!

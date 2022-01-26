@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hum Chand / Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hum Chand"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://humchand.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hum-chand/hum-chand.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,43 +80,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Prof. Hum Chand"
+  avatar           : "profile.jpg"
+  bio              : "Professor & Head  Department of Physics and Astronomical Science ; Dean School of Physical and Material Sciences"
+  location         : "Dharamshala"
+  employer         : "Central University, H.P. India"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=Olvg8WUAAAAJ"
+  email            : "humchand@hpcu.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/hum.chand"
   foursquare       :
-  github           : "academicpages"
+  github           : "hum-chand"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3163-4941"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
-
 # Reading Files
 include:
   - .htaccess
@@ -178,14 +176,14 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  mypublications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
+  mytalks:
+    output: truepublications
     permalink: /:collection/:path/
 
 
@@ -218,15 +216,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _mypublications
   - scope:
       path: ""
-      type: publications
+      type: mypublications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
+      sidebar: true
   # _portfolio
   - scope:
       path: ""
@@ -244,7 +243,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _docs
+  - scope:
+      path: 
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -309,3 +314,47 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
+
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
