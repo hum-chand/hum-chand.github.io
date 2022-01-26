@@ -1,21 +1,10 @@
----
-permalink: /
-title: "Welcome to the home page of Hum Chand"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+I"‡<p>Hello..</p>
 
-Hello..
+<p>My name is Hum Chand and you have landed on my home page. The contents on the left will help you to navigate through my home page in case you feel like it..</p>
 
+<p>Thanks for dropping by.</p>
 
-My name is Hum Chand and you have landed on my home page. The contents on the left will help you to navigate through my home page in case you feel like it..
-
-Thanks for dropping by.
-
-# Page is under construction.
+<h1 id="page-is-under-construction">Page is under construction.</h1>
 
 <!--
 
@@ -43,3 +32,4 @@ Example: editing a markdown file for a talk
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
+:ET
