@@ -183,7 +183,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   mytalks:
-    output: truepublications
+    output: true
     permalink: /:collection/:path/
 
 
@@ -245,7 +245,7 @@ defaults:
       share: true
   # _docs
   - scope:
-      path: 
+      path:
       type: docs
     values:
       sidebar:
