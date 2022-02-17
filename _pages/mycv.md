@@ -3,7 +3,7 @@ permalink: /mycv/
 title: "CV"
 ---
 
-You may brows through
+> You may brows through
 
 {% for post in site.pages.publications.md %} {% include archive-single-talk-cv.html %} {% endfor %}
 

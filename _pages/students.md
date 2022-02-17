@@ -123,23 +123,23 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 {: reversed="reversed"}
 1. To be updated ..
 
-1. Sudesh Kumar  CUHP MSc-2021
+1. Sudesh Kumar  CUHP19PGPAS21 MSc-2021 Spectroscopy and data reduction  BAL QSO J0911+1070
 
-1. Diwakar CUHP MSc-2021
+1. Vivek Kumar CUHP19PGPAS26 MSc 2021 Spectroscopy of X-ray loud BAL QSO J0214-0046
 
-1. Amit Kumar  CUHP MSc-2021
+1. Diwakar CUHP19PGPAS33 MSc-2021 Black Hole Mass estimation based on lag measurements of continuum and BLR region of AGN
 
-1. Dharamender Kumar CUHP MSc-2021
+1. Amit Sharma CUHP19PGPAS27   MSc-2021 Comparison of Spectral Energy Distribution of Blazar and Quasar
 
-1. Himanshu Kumar  CUHP MSc-2021
+1. Dharamender Kumar CUHP19PGPAS06 MSc-2021 AGN Reverberation Mapping: A tool to probe the Mass of Supermassive Black Hole
 
-1. Arun Kumar CUHP MSc-2020
+1. Himanshu Kumar  CUHP19PGPAS08 MSc-2021  Comparison of Spectral Energy Distribution pf Blazar 3C272 and Quasar
 
-1.  Vikrant CUHP MSc-2020
+1. Arun Kumar CUHP18PGPAS04 MSc-2020 Variability study of NLSY1s
 
-1.  Shiwani  CUHP MSc-2020
+1.  Vikrant Chauhan CUHP18PGPAS28 MSc-2020  Variability of source J0324+3410 in NLSy1
 
-1. Yogesh Kumar CUHP MSc-2020
+1.  Shiwani  CUHP18PGPAS24 MSc-2020 Optical Spectroscopic study of Blazar
 
 [Go-to-top](#PhDThesisStudents)
 

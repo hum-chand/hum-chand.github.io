@@ -1,7 +1,235 @@
-I"�J
-<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
+I"�^<p>A variety of common markup showing how the theme styles them.</p>
 
-<h2>Pages</h2>
+<h1 id="header-one">Header one</h1>
+
+<h2 id="header-two">Header two</h2>
+
+<h3 id="header-three">Header three</h3>
+
+<h4 id="header-four">Header four</h4>
+
+<h5 id="header-five">Header five</h5>
+
+<h6 id="header-six">Header six</h6>
+
+<h2 id="blockquotes">Blockquotes</h2>
+
+<p>Single line blockquote:</p>
+
+<blockquote>
+  <p>Quotes are cool.</p>
+</blockquote>
+
+<h2 id="tables">Tables</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Entry</th>
+      <th>Item</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">John Doe</a></td>
+      <td>2016</td>
+      <td>Description of the item in the list</td>
+    </tr>
+    <tr>
+      <td><a href="#">Jane Doe</a></td>
+      <td>2019</td>
+      <td>Description of the item in the list</td>
+    </tr>
+    <tr>
+      <td><a href="#">Doe Doe</a></td>
+      <td>2022</td>
+      <td>Description of the item in the list</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Header1</th>
+      <th style="text-align: center">Header2</th>
+      <th style="text-align: right">Header3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">cell1</td>
+      <td style="text-align: center">cell2</td>
+      <td style="text-align: right">cell3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cell4</td>
+      <td style="text-align: center">cell5</td>
+      <td style="text-align: right">cell6</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">cell1</td>
+      <td style="text-align: center">cell2</td>
+      <td style="text-align: right">cell3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cell4</td>
+      <td style="text-align: center">cell5</td>
+      <td style="text-align: right">cell6</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td style="text-align: left">Foot1</td>
+      <td style="text-align: center">Foot2</td>
+      <td style="text-align: right">Foot3</td>
+    </tr>
+  </tfoot>
+</table>
+
+<h2 id="definition-lists">Definition Lists</h2>
+
+<dl>
+  <dt>Definition List Title</dt>
+  <dd>Definition list division.</dd>
+  <dt>Startup</dt>
+  <dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd>
+  <dt>#dowork</dt>
+  <dd>Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.</dd>
+  <dt>Do It Live</dt>
+  <dd>I’ll let Bill O’Reilly <a href="https://www.youtube.com/watch?v=O_HyZ5aW76c" title="We'll Do It Live">explain</a> this one.</dd>
+</dl>
+
+<h2 id="unordered-lists-nested">Unordered Lists (Nested)</h2>
+
+<ul>
+  <li>List item one
+    <ul>
+      <li>List item one
+        <ul>
+          <li>List item one</li>
+          <li>List item two</li>
+          <li>List item three</li>
+          <li>List item four</li>
+        </ul>
+      </li>
+      <li>List item two</li>
+      <li>List item three</li>
+      <li>List item four</li>
+    </ul>
+  </li>
+  <li>List item two</li>
+  <li>List item three</li>
+  <li>List item four</li>
+</ul>
+
+<h2 id="ordered-list-nested">Ordered List (Nested)</h2>
+
+<ol>
+  <li>List item one
+    <ol>
+      <li>List item one
+        <ol>
+          <li>List item one</li>
+          <li>List item two</li>
+          <li>List item three</li>
+          <li>List item four</li>
+        </ol>
+      </li>
+      <li>List item two</li>
+      <li>List item three</li>
+      <li>List item four</li>
+    </ol>
+  </li>
+  <li>List item two</li>
+  <li>List item three</li>
+  <li>List item four</li>
+</ol>
+
+<h2 id="buttons">Buttons</h2>
+
+<p>Make any link standout more when applying the <code class="language-plaintext highlighter-rouge">.btn</code> class.</p>
+
+<h2 id="notices">Notices</h2>
+
+<p class="notice"><strong>Watch out!</strong> You can also add notices by appending <code class="language-plaintext highlighter-rouge">{: .notice}</code> to a paragraph.</p>
+
+<h2 id="html-tags">HTML Tags</h2>
+
+<h3 id="address-tag">Address Tag</h3>
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+<h3 id="anchor-tag-aka-link">Anchor Tag (aka. Link)</h3>
+
+<p>This is an example of a <a href="http://github.com" title="Github">link</a>.</p>
+
+<h3 id="abbreviation-tag">Abbreviation Tag</h3>
+
+<p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p>
+
+<h3 id="cite-tag">Cite Tag</h3>
+
+<p>“Code is poetry.” —<cite>Automattic</cite></p>
+
+<h3 id="code-tag">Code Tag</h3>
+
+<p>You will learn later on in these tests that <code class="language-plaintext highlighter-rouge">word-wrap: break-word;</code> will be your best friend.</p>
+
+<h3 id="strike-tag">Strike Tag</h3>
+
+<p>This tag will let you <strike>strikeout text</strike>.</p>
+
+<h3 id="emphasize-tag">Emphasize Tag</h3>
+
+<p>The emphasize tag should <em>italicize</em> text.</p>
+
+<h3 id="insert-tag">Insert Tag</h3>
+
+<p>This tag should denote <ins>inserted</ins> text.</p>
+
+<h3 id="keyboard-tag">Keyboard Tag</h3>
+
+<p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> tag.</p>
+
+<h3 id="preformatted-tag">Preformatted Tag</h3>
+
+<p>This tag styles large blocks of code.</p>
+
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
+
+<h3 id="quote-tag">Quote Tag</h3>
+
+<p><q>Developers, developers, developers…</q> –Steve Ballmer</p>
+
+<h3 id="strong-tag">Strong Tag</h3>
+
+<p>This tag shows <strong>bold text</strong>.</p>
+
+<h3 id="subscript-tag">Subscript Tag</h3>
+
+<p>Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.</p>
+
+<h3 id="superscript-tag">Superscript Tag</h3>
+
+<p>Still sticking with science and Isaac Newton’s E = MC<sup>2</sup>, which should lift the 2 up.</p>
+
+<h3 id="variable-tag">Variable Tag</h3>
+
+<p>This allows you to denote <var>variables</var>.</p>
 
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
@@ -170,6 +398,30 @@
 
         
 
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/" rel="permalink">Welcome to the home page of Hum Chand</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>About me</p>
+</p>
     
     
     
@@ -522,6 +774,30 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
+        <a href="http://localhost:4000/" rel="permalink">Welcome to the home page of Hum Chand</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>About me</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
         <a href="http://localhost:4000/talkmap.html" rel="permalink">Talk map</a>
       
     </h2>
@@ -711,6 +987,48 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
+        <a href="http://localhost:4000/about/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
         <a href="http://localhost:4000/md/" rel="permalink"></a>
       
     </h2>
@@ -775,6 +1093,48 @@
     <h2 class="archive__item-title" itemprop="headline">
       
         <a href="http://localhost:4000/nmp.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about.html" rel="permalink"></a>
       
     </h2>
     
@@ -894,143 +1254,4 @@
   </article>
 </div>
 
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/assets/css/main.css.map" rel="permalink"></a>
-      
-    </h2>
-    
-    
-
-        
-
-    
-    
-    
-
-  </article>
-</div>
-
-<h2>Posts</h2>
-
-<h2>mypublications</h2>
-
-<h2>mytalks</h2>
-
-<h2>portfolio</h2>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/portfolio/portfolio-1/" rel="permalink">Portfolio item number 1
-</a>
-      
-    </h2>
-    
-    
-
-        
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-01-26T04:21:35-08:00">January 26, 2022</time></p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p>Short description of portfolio item number 1<br /><img src="/images/500x300.png" /></p>
-</p>
-    
-    
-    
-
-  </article>
-</div>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/portfolio/portfolio-2/" rel="permalink">Portfolio item number 2
-</a>
-      
-    </h2>
-    
-    
-
-        
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-01-26T04:21:35-08:00">January 26, 2022</time></p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p>Short description of portfolio item number 2 <br /><img src="/images/500x300.png" /></p>
-</p>
-    
-    
-    
-
-  </article>
-</div>
-
-<h2>teaching</h2>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/teaching/2014-spring-teaching-1" rel="permalink">Teaching experience 1
-</a>
-      
-    </h2>
-    
-    
-
-        
-          <p> Undergraduate course, <i>University 1, Department</i>, 2014 </p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p>This is a description of a teaching experience. You can use markdown like any other post.</p>
-</p>
-    
-    
-    
-
-  </article>
-</div>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/teaching/2015-spring-teaching-1" rel="permalink">Teaching experience 2
-</a>
-      
-    </h2>
-    
-    
-
-        
-          <p> Workshop, <i>University 1, Department</i>, 2015 </p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p>This is a description of a teaching experience. You can use markdown like any other post.</p>
-</p>
-    
-    
-    
-
-  </article>
-</div>
-
-:EF
+:ET

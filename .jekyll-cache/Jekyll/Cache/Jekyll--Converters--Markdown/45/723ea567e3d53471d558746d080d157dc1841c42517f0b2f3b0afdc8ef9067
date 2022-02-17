@@ -1,4 +1,4 @@
-I"ÏJ
+I"mS
 <p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
@@ -170,6 +170,30 @@
 
         
 
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/" rel="permalink">Welcome to the home page of Hum Chand</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>About me</p>
+</p>
     
     
     
@@ -522,6 +546,30 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
+        <a href="http://localhost:4000/" rel="permalink">Welcome to the home page of Hum Chand</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>About me</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
         <a href="http://localhost:4000/talkmap.html" rel="permalink">Talk map</a>
       
     </h2>
@@ -711,6 +759,48 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
+        <a href="http://localhost:4000/about/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
         <a href="http://localhost:4000/md/" rel="permalink"></a>
       
     </h2>
@@ -775,6 +865,48 @@
     <h2 class="archive__item-title" itemprop="headline">
       
         <a href="http://localhost:4000/nmp.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about.html" rel="permalink"></a>
       
     </h2>
     
@@ -937,7 +1069,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-01-26T04:21:01-08:00">January 26, 2022</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-02-13T06:07:39-08:00">February 13, 2022</time></p>
         
 
     
@@ -964,7 +1096,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-01-26T04:21:01-08:00">January 26, 2022</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-02-13T06:07:39-08:00">February 13, 2022</time></p>
         
 
     
