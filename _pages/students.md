@@ -133,13 +133,15 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 
 1. Dharamender Kumar CUHP19PGPAS06 MSc-2021 AGN Reverberation Mapping: A tool to probe the Mass of Supermassive Black Hole
 
-1. Himanshu Kumar  CUHP19PGPAS08 MSc-2021  Comparison of Spectral Energy Distribution pf Blazar 3C272 and Quasar
+1. Himanshu Kumar  CUHP19PGPAS08 MSc-2021  Comparison of Spectral Energy Distribution of Blazar 3C272 and Quasar
 
 1. Arun Kumar CUHP18PGPAS04 MSc-2020 Variability study of NLSY1s
 
 1.  Vikrant Chauhan CUHP18PGPAS28 MSc-2020  Variability of source J0324+3410 in NLSy1
 
 1.  Shiwani  CUHP18PGPAS24 MSc-2020 Optical Spectroscopic study of Blazar
+
+1. Yogesh Kumar CUHP18PGPAS35 Study of Variability and outflows in BAL-QSO J152553+513649
 
 [Go-to-top](#PhDThesisStudents)
 
