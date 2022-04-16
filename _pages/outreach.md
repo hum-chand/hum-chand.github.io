@@ -3,6 +3,12 @@ permalink: /outreach/
 title: "Public Outreach"
 ---
 
+Ongoing Outreach:
+================
+We believes that the benefits of high-quality science education and infrastructure should not remain restricted to members of the CUHP only. As an attempt to spread the excitement of science and to make the expertise and facilities at CUHP available to the science and education community of the Himachal Pradesh, we would like to engage in several “Science, Technology, and Astronomy Realisation (STAR)” outreach activities. These encompass skywatching programs, social outreach in the local community, capacity building of teachers, making and popularizing simple science toys, and effectively communicating scientific research through various media. In this context the Department of Physics and Astronomical Science of CIHP proposed to set up a Chandra “Science, Technology and Astronomy Realisation (STAR)” Club [Chandra- STAR-Club] at CUHP, named after renowned nobel laureate and the father of astrophysics, Prof. S. Chandrasekhar.
+
+For more detail visit at ..... [Chandra- STAR-Club](https://chandrastarclub.github.io/) .
+
 Science Popularization
 ======================
 
