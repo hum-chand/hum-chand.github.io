@@ -10,18 +10,24 @@ author_profile: true
 
 {: reversed="reversed"}
 
-1. [Optical flux and colour variability of blazars in the ZTF survey](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1791N/abstract); Negi, Vibhore; Joshi, Ravi; Chand, Krishan; Chand, Hum; Wiita, Paul; Ho, Luis C.; Singh, Ravi S. 2022, MNRAS, 510, 1791N
 
-1. [Intranight variability of UV emission from powerful blazars](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmpL.115C/abstract); Chand, Krishan; Gopal-Krishna; Omar, Amitesh; Chand, Hum; Mishra, Sapna; Bisht, P. S.; Britzen, S., 2022MNRAS, Letter in press
+1. [Evidence of jet-induced optical microvariability in radio-loud narrow-line Seyfert 1 galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.5607O/abstract);  Ojha, Vineet; Jha, Vivek Kumar; Chand, Hum ; Singh, Veeresh, 2022, MNRAS, 514, 5607O, eprint [arXiv:2206.04641](https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.514.5607O/arxiv:2206.04641)
 
-1. [A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3374J/abstract); Jha, Vivek Kumar; Chand, Hum; Ojha, Vineet; Omar, Amitesh; Rastogi, Shantanu, 2022, MNRAS in press
+
+1. [Optical flux and colour variability of blazars in the ZTF survey](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1791N/abstract); Negi, Vibhore; Joshi, Ravi; Chand, Krishan; Chand, Hum; Wiita, Paul; Ho, Luis C.; Singh, Ravi S. 2022, MNRAS, 510, 1791N, eprint [arXiv:2112.00790](https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.510.1791N/arxiv:2112.00790)
+
+1. [Intranight variability of UV emission from powerful blazars](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmpL.115C/abstract); Chand, Krishan; Gopal-Krishna; Omar, Amitesh; Chand, Hum; Mishra, Sapna; Bisht, P. S.; Britzen, S., 2022MNRAS, Letter,511L,13C  eprint [arXiv:2112.04516](https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.511L..13C/arxiv:2112.04516)
+
+1.  [Accretion disc sizes from continuum reverberation mapping of AGN selected from the ZTF survey](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210905036J/abstract);  Jha, Vivek Kumar,Joshi, Ravi,Chand, Hum et al.  Monthly Notices of the Royal Astronomical Society:  2022, Volume 511,3005, eprint [arXiv:2109.05036](https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.511.3005J/arxiv:2109.05036)
+
+1. [A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3374J/abstract); Jha, Vivek Kumar; Chand, Hum; Ojha, Vineet; Omar, Amitesh; Rastogi, Shantanu, 2022, MNRAS,510,4379J, eprint [arXiv:2112.09150](
+https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.510.4379J/arxiv:2112.09150)
 
 1. [VizieR Online Data Catalog: X-ray obs. of narrow- and broad-line Seyfert 1 gal. (Ojha et al, 2020)](https://ui.adsabs.harvard.edu/abs/2021yCat..18960095O/abstract); Ojha, V.; Chand, H.; Dewangan, G. C.; Rakshit, S. 2021yCat..18960095O
 
 
-1.  [A search for blazar activity in broad-absorption-line quasars.](https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.507L..46M/abstract);  Mishra-Sapna, Gopal-Krishna, Chand-Hum et al.  Monthly Notices of the Royal Astronomical Society: Letters, Volume 507, Issue 1, pp.L46-L51
+1.  [A search for blazar activity in broad-absorption-line quasars.](https://ui.adsabs.harvard.edu/link_gateway/2021MNRAS.507L..46M/abstract);  Mishra-Sapna, Gopal-Krishna, Chand-Hum et al.  Monthly Notices of the Royal Astronomical Society: Letters, 2021, Volume 507, Issue 1, pp.L46-L51
 
-1.  [Continuum reverberation mapping based accretion disk sizes for AGN selected from the ZTF survey](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210905036J/abstract);  Jha, Vivek Kumar,Joshi, Ravi,Chand, Hum et al.  Monthly Notices of the Royal Astronomical Society:  press, eprint arXiv:2109.05036
 
 1.  [VizieR Online Data Catalog: MgII abs. toward SDSS QSOs with rotation measures.](https://ui.adsabs.harvard.edu/link_gateway/2021yCat..18900132M/abstract);  Mishra-Sapna, Malik, S.,Chand, H.,Seshadri, T. R. et al.  VizieR On-line Data Catalog: J/ApJ/890/132. Originally published in: 2020ApJ...890..132M                                                          
 
