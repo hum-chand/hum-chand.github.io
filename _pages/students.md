@@ -12,7 +12,35 @@ You may find below the list of my [PhD  Thesis Students](#PhDThesisStudents) , [
 
 #  PhD Thesis Students <span id="PhDThesisStudents"></span>
 
+# 12. Mr. Madhu Sudan
 
+|*Title:*      | Multi-wavelength studies of Seyfert Galaxies|
+|:---------------|:---------------------------------------|
+|*Duration:*      | 2021- present|
+|*Affiliation:*   | Central University of Himachal Pradesh |
+|*At Present:*   |  CUHP;  [Webpage:](TBA)|
+
+In brief the main problem addressed in this thesis is ... [More detail here](tba)
+
+# 11. Mr. Dharamender Kumar
+
+|*Title:*      | Probing Active Galctive Nuclei environment at diverse length scales |
+|:---------------|:---------------------------------------|
+|*Duration:*      | 2021- present|
+|*Affiliation:*   | Central University of Himachal Pradesh |
+|*At Present:*   |  CUHP;  [Webpage:](TBA)|
+
+In brief the main problem addressed in this thesis is ... [More detail here](tba)
+
+# 10. Mr. Himanshu Sharma
+
+|*Title:*      | Multi-wavelength emission mechanisms in Active Galactic Nuclei |
+|:---------------|:---------------------------------------|
+|*Duration:*      | 2021- present|
+|*Affiliation:*   | Central University of Himachal Pradesh |
+|*At Present:*   |  CUHP;  [Webpage:](TBA)|
+
+In brief the main problem addressed in this thesis is ... [More detail here](tba)
 
 # 9. Mr. Ritish Kumar
 
@@ -29,7 +57,7 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 
 |*Title:*      | Investigating the Nature and Structure of the Broad Line Region in Active Galactic Nuclei |
 |:---------------|:---------------------------------------|
-|*Duration:*      | 2016- present|
+|*Duration:*      | 2016- 2022|
 |*Affiliation:*   | Aryabhatta Research Institute of Observation Sciences |
 |*At Present:*   |  ARIES;   [Webpage:](https://viveikjha.github.io)|
 
@@ -44,7 +72,7 @@ to further our understanding of the innermost regions in Active galactic nuclei 
 
 |*Title:*      | Extragalactic Astronomy Using 4m-Liquid Mirror telescope |
 |:---------------|:---------------------------------------|
-|*Duration:*      | 2016- |
+|*Duration:*      | 2016-2022 |
 |*Affiliation:*   | Aryabhatta Research Institute of Observation Sciences |
 |*At Present:*   |  ARIES  [Web](TBA)
 
@@ -56,7 +84,7 @@ In brief the main problemaddressed in this thesis is ... [More detail here](/phd
 |:---------------|:---------------------------------------|
 |*Duration:*      | 2015-2020 |
 |*Affiliation:*   | Aryabhatta Research Institute of Observation Sciences |
-|*At Present:*   | Post-Doc ARIES [Webpage:](TBA)|
+|*At Present:*   | Post-Doc Poland [Webpage:](TBA)|
 
 In brief the main problem addressed in this thesis is ... [More detail here](/phd/2013-03-01-Ravi-Joshi.md)
 
