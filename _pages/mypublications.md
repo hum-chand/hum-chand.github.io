@@ -10,7 +10,14 @@ author_profile: true
 
 {: reversed="reversed"}
 
-1. [Intranight optical variability of low-mass active galactic nuclei: a pointer to blazar-like activity](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518L..13G/abstract); Gopal-Krishna; Chand, Krishan; Chand, Hum; Negi, Vibhore; Mishra, Sapna; Britzen, S.; Bisht, P. S. eprint [arXiv:2210.05186](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.518L..13G/arxiv:2210.05186)
+1. [Evidence of underdeveloped torus and broad-line region of weak emission line quasars based on their spectral energy distribution](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3656K) Kumar, Ritish and Chand, Hum and Joshi, Ravi, 2023, MNRAS, 519, 3656K ;eprint [arXiv:2212.06179](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.519.3656K/EPRINT_PDF)
+
+1. [The transience and persistence of high optical polarization state in beamed radio quasars](https://ui.adsabs.harvard.edu/abs/2023arXiv230106159C) Chand, Krishan and Gopal-Krishna and Omar, Amitesh and Chand, Hum and Bisht, P.~S., ;eprint [arXiv:2301.06159](https://ui.adsabs.harvard.edu/abs/2023arXiv230106159C)
+
+1. [Probable low-frequency quasi-periodic oscillations in blazars from the ZTF survey](https://ui.adsabs.harvard.edu/abs/2022arXiv221007266B); Banerjee, Anuvab and Negi, Vibhore and Joshi, Ravi and Kumar, Nagendra and Wiita, Paul J. and Chand, Hum and Rawat, Nikita and Wu, Xue-Bing and Ho, Luis C. ;eprint [arXiv:2210.07266](https://ui.adsabs.harvard.edu/abs/2022arXiv221007266B)
+
+1. [Intranight optical variability of low-mass active galactic nuclei: a pointer to blazar-like activity](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518L..13G/abstract); Gopal-Krishna; Chand, Krishan; Chand, Hum; Negi, Vibhore; Mishra, Sapna; Britzen, S.; Bisht, P. S.,
+2023,MNRAS, 518L, 13G,   eprint [arXiv:2210.05186](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.518L..13G/arxiv:2210.05186)
 
 1. [Evidence of jet-induced optical microvariability in radio-loud narrow-line Seyfert 1 galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.5607O/abstract);  Ojha, Vineet; Jha, Vivek Kumar; Chand, Hum ; Singh, Veeresh, 2022, MNRAS, 514, 5607O, eprint [arXiv:2206.04641](https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.514.5607O/arxiv:2206.04641)
 

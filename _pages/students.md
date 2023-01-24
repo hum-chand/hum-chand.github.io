@@ -4,13 +4,23 @@ title: "Research Students"
 ---
 >
 
-You may find below the list of my [PhD  Thesis Students](#PhDThesisStudents) , [Master Thesis Students](#MasterThesisstudents) and [Project Students](#ProjectStudents) along with very  brief description of their  works:
+You may find below the list of my [PhD  Thesis Students](#PhDThesisStudents) , [Master Thesis Students](MasterThesisStudents) and [Project Students](#ProjectStudents) along with very  brief description of their  works:
 
 >
 
 
 
 #  PhD Thesis Students <span id="PhDThesisStudents"></span>
+
+# 13. Mr. Prayag Sharma
+
+|*Title:*      | Cosmology with Ly-&alpha; forest |
+|:---------------|:---------------------------------------|
+|*Duration:*      | 2021- present|
+|*Affiliation:*   | Central University of Himachal Pradesh |
+|*At Present:*   |  CUHP;  [Webpage:](TBA)|
+
+In brief the main problem addressed in this thesis is ... [More detail here](tba)
 
 # 12. Mr. Madhu Sudan
 
@@ -149,9 +159,12 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 #  Master Thesis Students <span id="MasterThesisStudents"></span>
 
 {: reversed="reversed"}
-1. To be updated ..
 
-1. Sudesh Kumar  CUHP19PGPAS21 MSc-2021 Spectroscopy and data reduction  BAL QSO J0911+1070
+1. Mr. Paryag Sharma (CUHP20PGPAS18) MSc-2022 Proximity Effect of Quasars
+
+1. Mr. Rajat Kumar (CUHP20PGPAS21) MSc-2022 Analyzing absorption line seen in distant QSO spectra
+
+1. Mr. Sudesh Kumar  CUHP19PGPAS21 MSc-2021 Spectroscopy and data reduction  BAL QSO J0911+1070
 
 1. Vivek Kumar CUHP19PGPAS26 MSc 2021 Spectroscopy of X-ray loud BAL QSO J0214-0046
 
