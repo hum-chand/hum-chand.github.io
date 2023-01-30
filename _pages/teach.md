@@ -3,14 +3,29 @@ permalink: /teach/
 title: "Teaching"
 ---
 
-# Teaching contribution (total 22 courses taught, total 322 contact hrs)
+# Teaching contribution:
 
 
 |- **Position**       |**Course**                              |**Place**         |**Period (contact hr)**     |
 |:--------------------|:---------------------------------------|:-----------------|:---------------------------|
+|-   Professor        |  Astronomy and Astrophysics-Lab         |  M.Sc physics CUHP 3th Sem|  2022-2023(monsoon) (60)	       |
+|-   Professor        |  Astronomy and Astrophysics             |  M.Sc physics CUHP 3th Sem|  2022-2023(monsoon) (40)	       |
+|-   Professor        |  Astronomy and Astrophysics-Lab         |  B.Sc physics CUHP 6th Sem|  2021-2022(Spring) (60)	       |
+|-   Professor        |  Advance astronomy and Astrophysics     | Pre-Phd physics CUHP |  2021-2022(spring) (60)	       |
+|-   Professor        |  Python programming for astrophysical data analysis |  M.Sc physics CUHP 1st Sem|  2021-2022(monsoon) (60)|
+|-   Professor        |  Astronomy and Astrophysics-Lab         |  M.Sc physics CUHP 3th Sem|  2021-2022(monsoon) (60)	       |
+|-   Professor        |  Astronomy and Astrophysics-Lab         |  B.Sc physics CUHP 6th Sem|  2020-2021(spring) (60)	       |
+|-   Professor        |  Astronomy and Astrophysics             |  B.Sc physics CUHP 6th Sem|  2020-2021(spring) (60)	       |
+|-   Professor        |  Astronomy and Astrophysics-Lab         |  M.Sc physics CUHP 3th Sem|  2020-2021(monsoon) (60)	       |
+|-   Professor        |  Astronomy and Astrophysics             |  M.Sc physics CUHP 3th Sem|  2020-2021(monsoon) (60)	       |
+|-   Professor        |  Essence of Scientific programming      |  M.Sc Physics CUHP 2th Sem|  2019-2020(spring) (40)	       |
+|-   Professor        |  Cosmology                             |  M.Sc physics CUHP 4th Sem|  2019-2020(spring) (40)	       |
+|-   Scientist -E     |  Cosmological Physics                  |  ARIES Pre- Ph.D |  2019-2020 (14)	       |
+|-   Scientist -E     |  Extra-galactic astronomy              |  ARIES Pre- Ph.D |  2018-2019 (14)	       |
+|-   Scientist -E     |  Cosmological Physics                  |  ARIES Pre- Ph.D |  2017-2018 (14)	       |
 |-   Scientist -D     |  Cosmological Physics                  |  ARIES Pre- Ph.D |  2016-2017 (14)	       |
 |-   Scientist -D     |  Cosmological Physics                  |  ARIES Pre- Ph.D |  2015-2016 (18)	       |
-|-   Scientist -D     |  Methamatical & Statistical methods    |  ARIES Pre- Ph.D |  2014-2015 (14)	       |
+|-   Scientist -D     |  Methematical & Statistical methods    |  ARIES Pre- Ph.D |  2014-2015 (14)	       |
 |-   Scientist -D     |  Extra-galactic astronomy              |  ARIES Pre- Ph.D |  2015-2016 (14)	       |
 |-   Scientist -D     |  Cosmological Physics                  |  ARIES Pre- Ph.D |  2014-2015 (18)	        |
 |-   Scientist -D     |  Diffuse Matter in Universe:ISM & IGM  |  ARIES Pre- Ph.D |  2014-2015 (20)	       |
