@@ -10,9 +10,12 @@ You may find below the list of my [Talks](#talks) in various Institutes/Universi
 #  Talks: <span id="talks"></span>
 
 {: reversed="reversed"}
+1. Associated absorbers in Quasars: tool to probe high velocity AGNs outflows; 2-5 February 2023, National Conference on Outflow at all scale. IUCAA Pune India.
+1. Quasar absorption lines: Tool to probe the variation of fundamental constants over a time scale of billions of years;  31 Jan 2023, General Physics lecture (online) Department of Physics, H. N. B. Garhwal Central University, India
 1. Our Cosmos: Active Galactic Nuclei tool to probing Universe history, 13 December 2022, Pt R. S. University Raipur for online refresher course in Physics
 1. Photometric variability of AGN using 1m-class telescope: a tool to understand the Central Engine of AGN and estimation of their Blackhole mass, 19 November 2022, ARIES, Nainital, Uttrakhand, India
-1. Review the varying fundamental, constant based on quasar spectroscopy, Constancy of the fundamental constants", December 1, 2022 at IUCAA, Pune, India
+1. Review the varying fundamental, constant based on quasar spectroscopy; national conference  on Constancy of the fundamental constants", December 1, 2022 at IUCAA, Pune, India
+1. Probing Quasars environment  at Mega- parsc scale based on large sample of Quasars pairs;  HEPCAT conference, September 2, 2022 at CUHP, Dharamshala, India
 1. Probing the environment and central Engine  of  AGN , Invited IUCAA colloquium with audience national & International 22 April 2021.
 1. Probing the environment of Active Galactic Nuclei (AGN) and evolution of Universe using spectroscopy of Active Galactic Nuclei., Pt R. S. University Raipur for online refresher course in Physics during 16 to 28 August 2021
 1. A new Catalog of Narrow Line Seyfert 1 Galaxies from the Sloan Digital
