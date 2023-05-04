@@ -10,6 +10,8 @@ author_profile: true
 
 {: reversed="reversed"}
 
+1. [Intranight Optical Variability of blazars and Radio-quiet Quasars using the ZTF survey](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1181N/abstract) Negi, Vibhore; Gopal-Krishna; Joshi, Ravi; Chand, Hum; Wiita, Paul J.; Navaneeth, P. K.; Singh, Ravi S., 2023, MNRAS.tmp, 1181N  ;eprint [arXiv:2304.11187](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.tmp.1181N/EPRINT_PDF)
+
 1. [Evidence of underdeveloped torus and broad-line region of weak emission line quasars based on their spectral energy distribution](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3656K) Kumar, Ritish and Chand, Hum and Joshi, Ravi, 2023, MNRAS, 519, 3656K ;eprint [arXiv:2212.06179](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.519.3656K/EPRINT_PDF)
 
 1. [The transience and persistence of high optical polarization state in beamed radio quasars](https://ui.adsabs.harvard.edu/abs/2023arXiv230106159C) Chand, Krishan and Gopal-Krishna and Omar, Amitesh and Chand, Hum and Bisht, P.~S., ;eprint [arXiv:2301.06159](https://ui.adsabs.harvard.edu/abs/2023arXiv230106159C)

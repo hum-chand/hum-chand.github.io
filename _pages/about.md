@@ -11,10 +11,10 @@ redirect_from:
 Hello..
 
 
-My name is Hum Chand and you have landed on my home page. The contents on the left will help you to navigate through my home page in case you feel like it..
+My name is Hum Chand and you have landed on my home page. The contents on the tab on top  will help you to navigate through my home page in case you feel like it [.. more details will follow soon]
 
 Thanks for dropping by.
-
+<!--
 # New/announcement
 
 Our understanding of astronomy, astrophysics and space science, which draws upon our knowledge of different branches of physics and other disciplines, is fundamental to our understanding of the Universe.  In this context,
@@ -30,10 +30,10 @@ Formal invitation letters along with the duration and schedule of this programme
 
 Could we request you to kindly circulate this widely, especially to those who you think may be interested?  For any queries please contact coordinator DPAS-ICARD at dpas.icard@gmail.com  or by phone at 6396937743 / 9760154111 (whatApp). You may also email nrciucaa@gmail.com for any queries.
 
+
+
+
 # Page is under construction.....
-
-<!--
-
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
