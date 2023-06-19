@@ -9,6 +9,7 @@ author_profile: true
 - You my find my publications on [NASA-ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-3163-4941&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 {: reversed="reversed"}
+1. [Intranight optical variability of TeV blazars with parsec-scale jets dominated by slow-moving radio knots ](https://ui.adsabs.harvard.edu/abs/2023arXiv230606170N/abstract)  Negi, Vibhore ; Gopal-Krishna ; Chand, Hum ; Britzen, Silke , 2023, MNRAS Letters, in press, ;eprint [arXiv:2304.11187](https://ui.adsabs.harvard.edu/link_gateway/2023arXiv230606170N/arxiv:2306.06170)
 
 1. [Intranight Optical Variability of blazars and Radio-quiet Quasars using the ZTF survey](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1181N/abstract) Negi, Vibhore; Gopal-Krishna; Joshi, Ravi; Chand, Hum; Wiita, Paul J.; Navaneeth, P. K.; Singh, Ravi S., 2023, MNRAS.tmp, 1181N  ;eprint [arXiv:2304.11187](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.tmp.1181N/EPRINT_PDF)
 
