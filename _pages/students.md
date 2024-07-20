@@ -4,7 +4,7 @@ title: "Research Students"
 ---
 >
 
-You may find below the list of my [PhD  Thesis Students](#PhDThesisStudents) (total 13, 6 awarded, 2 submitted, 5 in progress) , [Master Thesis Students](#MasterThesisStudents) (total 12 ) and [Project Students](#ProjectStudents) (total 25) along with very  brief description of their  works:
+You may find below the list of my [PhD  Thesis Students](#PhDThesisStudents) (total 13, 8 awarded, 5 in progress) , [Master Thesis Students](#MasterThesisStudents) (total 12 ) and [Project Students](#ProjectStudents) (total 25) along with very  brief description of their  works:
 
 >
 
@@ -160,6 +160,12 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 
 {: reversed="reversed"}
 
+1.  Ms. Priya Sharma The Accretion Disk model in AGNs through SED Modelling   
+
+1. Mr. Sachin Thakus, MSc-2023 Probing the physical condition of absorption system at zabs = 1.149 towards HE0515-4414  
+
+1. Mr. Manoj Kumar MSc-2023 Analytical Model for Quasar Luminosity Function
+
 1. Mr. Paryag Sharma (CUHP20PGPAS18) MSc-2022 Proximity Effect of Quasars
 
 1. Mr. Rajat Kumar (CUHP20PGPAS21) MSc-2022 Analyzing absorption line seen in distant QSO spectra
@@ -189,6 +195,10 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 #  Project Students <span id="ProjectStudents"></span>
 
 {: reversed="reversed"}
+
+1. (26. ) Investigation of cloud coverage of potential sites for upcoming ISRO-CUHP
+       1m-telescope, based on MODIS Platform, Prashant Dhiman NIT Hamirpur July-Sept 2023
+
 1. (25.)  INOV properties of blazar like BALQSOs; Ms Sridevi, IISER-Bhopal
     2017 (cont).
 
