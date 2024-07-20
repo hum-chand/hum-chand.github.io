@@ -11,7 +11,7 @@ redirect_from:
 Hello..
 
 
-My name is Hum Chand and you have landed on my home page. The contents on the tab on top  will help you to navigate through my home page in case you feel like it [.. more details will follow soon]
+My name is Hum Chand and you have landed on my home page. The contents on the tab on top  will help you to navigate through my home page in case you feel like it. 
 
 Thanks for dropping by.
 <!--
