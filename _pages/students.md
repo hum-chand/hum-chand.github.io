@@ -159,10 +159,19 @@ In brief the main problem addressed in this thesis is ... [More detail here](/ph
 #  Master Thesis Students <span id="MasterThesisStudents"></span>
 
 {: reversed="reversed"}
+1.  PRIKSHIT Chaudhari (CUHP22PGPAS20)   Identifying New Quasar Pairs Suitable for Proximity Effect Studies Using DESI
+
+1. Ms KANIKA Mankotia (CUHP22PGPAS15) X-ray spectral study of the AGN Mrk 335 using multi-epoch AstroSat data
+
+1. Ms.  Divyanshi Sharm (CUHP22PGPAS13) Intranight Optical Variability in AGNs with IMBH Through the Lens of ZTF
+
+1. Mr. Anshul Kumar (CUHP22PGPAS07) A SPECTROSCOPIC CATALOG OF WEAK EMISSION LINE QUASAR’S
+
+1. Ms. Anshika Ohri (CUHP22PGPAS05) Spectral Energy Distribution Study of Weak Emission Line Quasars using CIGALE
 
 1.  Ms. Priya Sharma The Accretion Disk model in AGNs through SED Modelling   
 
-1. Mr. Sachin Thakus, MSc-2023 Probing the physical condition of absorption system at zabs = 1.149 towards HE0515-4414  
+1. Mr. Sachin Thakur, MSc-2023 Probing the physical condition of absorption system at zabs = 1.149 towards HE0515-4414  
 
 1. Mr. Manoj Kumar MSc-2023 Analytical Model for Quasar Luminosity Function
 
