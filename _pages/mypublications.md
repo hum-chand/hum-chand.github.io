@@ -10,42 +10,41 @@ author_profile: true
 
 {: reversed="reversed"}
 
-1. ["Investigating the circumgalactic medium through Mg II absorption coincidence"](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag714S/abstract) {Sharma, 2026, MNRAS, 548, stag714 ;eprint [arXiv:2604.13162](https://ui.adsabs.harvard.edu/link_gateway/2026MNRAS.548ag714S/EPRINT_PDF)
+1. [Investigating the circumgalactic medium through Mg II absorption coincidence](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag714S/abstract) Sharma, Paryag; Srianand, Raghunathan; Chand, Hum; Guha, Labanya Kumar, 2026, MNRAS, 548, stag714 ;eprint [arXiv:2604.13162](https://ui.adsabs.harvard.edu/link_gateway/2026MNRAS.548ag714S/EPRINT_PDF)
 
-1. ["Exploring the Origins of Optical Variability in Active Galactic Nuclei: Correlations with Black Hole Properties](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001...22J/abstract) {Jha, 2026, ApJ, 1001, 22
+1. [Exploring the Origins of Optical Variability in Active Galactic Nuclei: Correlations with Black Hole Properties, X-Ray, and Radio Emission](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001...22J/abstract) Jha, Vivek Kumar; Bhattacharya, Debbijoy; Chand, Hum, 2026, ApJ, 1001, 22
 
-1. ["Unraveling the mysteries of Jets in peculiar NLSy1 galaxies through multi-wavelength variability"](https://ui.adsabs.harvard.edu/abs/2026arXiv260209171O/abstract) {Ojha, 2026, arXiv e-prints, arXiv:2602.09171 ;eprint [arXiv:2602.09171](https://ui.adsabs.harvard.edu/link_gateway/2026arXiv260209171O/EPRINT_PDF)
+1. [Unraveling the mysteries of Jets in peculiar NLSy1 galaxies through multi-wavelength variability](https://ui.adsabs.harvard.edu/abs/2026arXiv260209171O/abstract) Ojha, Vineet; Wu, Xue-Bing; Ho, Luis C.; Prince, Raj; Majumdar, Joysankar; Chand, Hum; Wang, Chi-Zhuo, 2026, arXiv e-prints, arXiv:2602.09171 ;eprint [arXiv:2602.09171](https://ui.adsabs.harvard.edu/link_gateway/2026arXiv260209171O/EPRINT_PDF)
 
-1. ["Status of Astronomy Education in India: A Baseline Survey"](https://ui.adsabs.harvard.edu/abs/2026AEdJ....6..134M/abstract) {Maji, 2026, Astronomy Education Journal, 6, 134 ;eprint [arXiv:2406.12308](https://ui.adsabs.harvard.edu/link_gateway/2026AEdJ....6..134M/EPRINT_PDF)
+1. [Status of Astronomy Education in India: A Baseline Survey](https://ui.adsabs.harvard.edu/abs/2026AEdJ....6..134M/abstract) Maji, Moupiya; More, Surhud; Sule, Aniket; Balasubramanya, Vishaak; Bhandari, Ankit; Chand, Hum et al. , 2026, Astronomy Education Journal, 6, 134 ;eprint [arXiv:2406.12308](https://ui.adsabs.harvard.edu/link_gateway/2026AEdJ....6..134M/EPRINT_PDF)
 
-1. ["Probing jet-induced optical variability across time-scales in radio-loud NLSy1 galaxies"](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2225J/abstract) {Jha, 2026, MNRAS, 545, staf2225 ;eprint [arXiv:2512.11961](https://ui.adsabs.harvard.edu/link_gateway/2026MNRAS.545f2225J/EPRINT_PDF)
+1. [Probing jet-induced optical variability across time-scales in radio-loud NLSy1 galaxies](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2225J/abstract) Jha, Vivek Kumar; Sharma, Anshul Kumar; Sudan, Madhu; Chand, Hum, 2026, MNRAS, 545, staf2225 ;eprint [arXiv:2512.11961](https://ui.adsabs.harvard.edu/link_gateway/2026MNRAS.545f2225J/EPRINT_PDF)
 
-1. ["Do Low-Mass](https://ui.adsabs.harvard.edu/abs/2025arXiv251206068S/abstract) {Sharma, 2025, arXiv e-prints, arXiv:2512.06068 ;eprint [arXiv:2512.06068](https://ui.adsabs.harvard.edu/link_gateway/2025arXiv251206068S/EPRINT_PDF)
+1. [Do Low-Mass, Low-Luminosity AGNs Deviate from the Quasar Main Sequence?](https://ui.adsabs.harvard.edu/abs/2025arXiv251206068S/abstract) Sharma, Himanshu; Jha, Vivek Kumar; Chand, Hum; Panda, Swayamtrupta, 2025, arXiv e-prints, arXiv:2512.06068 ;eprint [arXiv:2512.06068](https://ui.adsabs.harvard.edu/link_gateway/2025arXiv251206068S/EPRINT_PDF)
 
-1. ["Brightness and colour variability in NLSy1s"](https://ui.adsabs.harvard.edu/abs/2025MNRAS.543..121S/abstract) {Sudan, 2025, MNRAS, 543, 121-131 ;eprint [arXiv:2504.14004](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.543..121S/EPRINT_PDF)
+1. [Brightness and colour variability in NLSy1s](https://ui.adsabs.harvard.edu/abs/2025MNRAS.543..121S/abstract) Sudan, Madhu; Chand, Hum; Wiita, Paul J.; Kumar, Ritish, 2025, MNRAS, 543, 121-131 ;eprint [arXiv:2504.14004](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.543..121S/EPRINT_PDF)
 
-1. ["The CASTOR mission"](https://ui.adsabs.harvard.edu/abs/2025JATIS..11d2202C/abstract) {C{\^o, 2025, Journal of Astronomical Telescopes, Instruments, and Systems, 11, 042202
+1. [The CASTOR mission](https://ui.adsabs.harvard.edu/abs/2025JATIS..11d2202C/abstract) C\^ot\'e, Patrick et al., 2025, Journal of Astronomical Telescopes, Instruments, and Systems, 11, 042202
 
-1. ["On the incidence of weak and strong Mg II absorbers towards the flat- and steep-spectrum radio quasars"](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..119K/abstract) {Kumar, 2025, MNRAS, 542, 119-127 ;eprint [arXiv:2507.17866](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.542..119K/EPRINT_PDF)
+1. [On the incidence of weak and strong Mg II absorbers towards the flat- and steep-spectrum radio quasars](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..119K/abstract) Kumar, Ritish; Mishra, Sapna; Chand, Hum, 2025, MNRAS, 542, 119-127 ;eprint [arXiv:2507.17866](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.542..119K/EPRINT_PDF)
 
-1. ["Exploring the Origins of Optical Variability in AGNs: Correlations with Black Hole Properties](https://ui.adsabs.harvard.edu/abs/2025arXiv250806610J/abstract) {Jha, 2025, arXiv e-prints, arXiv:2508.06610 ;eprint [arXiv:2508.06610](https://ui.adsabs.harvard.edu/link_gateway/2025arXiv250806610J/EPRINT_PDF)
+1. [Exploring the Origins of Optical Variability in AGNs: Correlations with Black Hole Properties, X-ray, and Radio Emission](https://ui.adsabs.harvard.edu/abs/2025arXiv250806610J/abstract) Jha, Vivek Kumar; Bhattacharya, Debbijoy; Chand, Hum, 2025, arXiv e-prints, arXiv:2508.06610 ;eprint [arXiv:2508.06610](https://ui.adsabs.harvard.edu/link_gateway/2025arXiv250806610J/EPRINT_PDF)
 
-1. ["Circumgalactic medium of quasar host galaxies at 0.4 \ensuremath\leqslant z \ensuremath\leqslant 0.8 probed by strong Mg II absorption"](https://ui.adsabs.harvard.edu/abs/2025MNRAS.541..601S/abstract) {Sharma, 2025, MNRAS, 541, 601-609 ;eprint [arXiv:2503.19968](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..601S/EPRINT_PDF)
+1. [Circumgalactic medium of quasar host galaxies at 0.4 \ensuremath\leqslant z \ensuremath\leqslant 0.8 probed by strong Mg II absorption](https://ui.adsabs.harvard.edu/abs/2025MNRAS.541..601S/abstract) Sharma, Paryag; Srianand, Raghunathan; Chand, Hum; Guha, Labanya Kumar, 2025, MNRAS, 541, 601-609 ;eprint [arXiv:2503.19968](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..601S/EPRINT_PDF)
 
-1. ["Galaxies](https://ui.adsabs.harvard.edu/abs/2025JApA...46...32K/abstract) {Kale, 2025, Journal of Astrophysics and Astronomy, 46, 32
+1. [Galaxies, clusters, and intergalactic medium: A vision document for the Indian Astronomical Community](https://ui.adsabs.harvard.edu/abs/2025JApA...46...32K/abstract) Kale, Ruta et al (including ) Chand), 2025, Journal of Astrophysics and Astronomy, 46, 32
 
-1. ["Weak emission-line quasars: a new clue from their optical variability"](https://ui.adsabs.harvard.edu/abs/2025MNRAS.538L..83K/abstract) {Kumar, 2025, MNRAS, 538, L83-L88 ;eprint [arXiv:2501.16328](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.538L..83K/EPRINT_PDF)
+1. [Weak emission-line quasars: a new clue from their optical variability](https://ui.adsabs.harvard.edu/abs/2025MNRAS.538L..83K/abstract) Kumar, Ritish; Krishna, Gopal-; Chand, Hum; Negi, Vibhore, 2025, MNRAS, 538, L83-L88 ;eprint [arXiv:2501.16328](https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.538L..83K/EPRINT_PDF)
 
-1. ["Star formation in neutral hydrogen gas reservoirs at cosmic noon"](https://ui.adsabs.harvard.edu/abs/2024A&A...692L...7D/abstract) {Dharmender, 2024, A&A, 692, L7 ;eprint [arXiv:2411.10525](https://ui.adsabs.harvard.edu/link_gateway/2024A&A...692L...7D/EPRINT_PDF)
+1. [Star formation in neutral hydrogen gas reservoirs at cosmic noon](https://ui.adsabs.harvard.edu/abs/2024A&A...692L...7D/abstract) Dharmender; Joshi, Ravi; Fumagalli, Michele; Noterdaeme, Pasquier; Chand, Hum; Ho, Luis C., 2024, A&A, 692, L7 ;eprint [arXiv:2411.10525](https://ui.adsabs.harvard.edu/link_gateway/2024A&A...692L...7D/EPRINT_PDF)
 
-1. ["Intranight optical monitoring of the rare quasar J0950+5128](https://ui.adsabs.harvard.edu/abs/2024arXiv241108106C/abstract) {Chand, 2024, arXiv e-prints, arXiv:2411.08106 ;eprint [arXiv:2411.08106](https://ui.adsabs.harvard.edu/link_gateway/2024arXiv241108106C/EPRINT_PDF)
+1. [Intranight optical monitoring of the rare quasar J0950+5128, the brightest known candidate for transition from radio-quiet to radio-loud state](https://ui.adsabs.harvard.edu/abs/2024arXiv241108106C/abstract) Chand, Krishan; Gopal-Krishna; Chand, Hum, 2024, arXiv e-prints, arXiv:2411.08106 ;eprint [arXiv:2411.08106](https://ui.adsabs.harvard.edu/link_gateway/2024arXiv241108106C/EPRINT_PDF)
 
-1. ["Exploring the AGN Accretion Disks Using Continuum Reverberation Mapping"](https://ui.adsabs.harvard.edu/abs/2024BSRSL..93..766J/abstract) {Jha, 2024, Bulletin de la Societe Royale des Sciences de Liege, 93, 766-779 ;eprint [arXiv:2307.16568](https://ui.adsabs.harvard.edu/link_gateway/2024BSRSL..93..766J/EPRINT_PDF)
+1. [Exploring the AGN Accretion Disks Using Continuum Reverberation Mapping](https://ui.adsabs.harvard.edu/abs/2024BSRSL..93..766J/abstract) Jha, Vivek Kumar; Joshi, Ravi; Saraswat, Jayesh; Chand, Hum; Barway, Sudhanshu; Mandal, Amit Kumar, 2024, Bulletin de la Societe Royale des Sciences de Liege, 93, 766-779 ;eprint [arXiv:2307.16568](https://ui.adsabs.harvard.edu/link_gateway/2024BSRSL..93..766J/EPRINT_PDF)
 
-1. ["Probable low-frequency quasi-periodic oscillations in blazars from the ZTF survey"](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5172B/abstract) {Banerjee, 2023, MNRAS, 526, 5172-5186 ;eprint [arXiv:2210.07266](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.526.5172B/EPRINT_PDF)
+1. [Probable low-frequency quasi-periodic oscillations in blazars from the ZTF survey](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5172B/abstract) Banerjee, Anuvab; Negi, Vibhore; Joshi, Ravi; Kumar, Nagendra; Wiita, Paul J.; Chand, Hum; Rawat, Nikita; Wu, Xue-Bing; Ho, Luis C., 2023, MNRAS, 526, 5172-5186 ;eprint [arXiv:2210.07266](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.526.5172B/EPRINT_PDF)
 
-1. ["Intranight optical variability of TeV blazars with parsec-scale jets dominated by slow-moving radio knots"](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524L..66N/abstract) {Negi, 2023, MNRAS, 524, L66-L71 ;eprint [arXiv:2306.06170](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.524L..66N/EPRINT_PDF)
-
+1. [Intranight optical variability of TeV blazars with parsec-scale jets dominated by slow-moving radio knots](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524L..66N/abstract) Negi, Vibhore; Gopal-Krishna; Chand, Hum; Britzen, Silke, 2023, MNRAS, 524, L66-L71 ;eprint [arXiv:2306.06170](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.524L..66N/EPRINT_PDF)
 
 1. [Intranight Optical Variability of blazars and Radio-quiet Quasars using the ZTF survey](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1181N/abstract) Negi, Vibhore; Gopal-Krishna; Joshi, Ravi; Chand, Hum; Wiita, Paul J.; Navaneeth, P. K.; Singh, Ravi S., 2023, MNRAS,522, 5588N  ;eprint [arXiv:2304.11187](https://ui.adsabs.harvard.edu/link_gateway/2023MNRAS.tmp.1181N/EPRINT_PDF)
 
